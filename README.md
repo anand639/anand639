@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand639" alt="anand639" /></a> </p>
 
-- 🔭 I’m currently working on **Space Probe**
+- 🔭 🚀 Embarking on a New Journey: **The 75 Hard Coding Challenge** 🚀
 
 - 🌱 I’m currently learning **Next.js**
 
