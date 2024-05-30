@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anand.srivastava103@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anand-webdeveloper/](https://www.linkedin.com/in/anand-webdeveloper/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anand-webdeveloper/](https://www.linkedin.com/in/anandgenai)
 
 - ⚡ Fun fact **I think i am funny**
 
